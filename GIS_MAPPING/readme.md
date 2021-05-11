@@ -1,6 +1,6 @@
-#QGIS : MAPPING THE SPATIAL DISTRIBUTION OF HEALTH INSURANCE COVERAGE IN PENNSYLVANIA 
+## QGIS : MAPPING THE SPATIAL DISTRIBUTION OF HEALTH INSURANCE COVERAGE IN PENNSYLVANIA 
 
-##DAT 241: Final Project
+## DAT 241: Final Project
 
 
 ## Abstract
@@ -49,13 +49,3 @@ The Dataset taken from the United States Census Bureau provides a clear spatial 
 
 11. Performed some Computations: In this Case Health Insurance Rate Calculations by Segment
 
-### Work Process Log
-
-
-## Results and Discussion
-
-## Conclusion
-
-## Limitations
-
-## Future Research
